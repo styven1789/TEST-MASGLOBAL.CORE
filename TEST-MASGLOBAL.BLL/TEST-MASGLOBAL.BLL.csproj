@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>TEST_MASGLOBAL.BLL</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TEST-MASGLOBAL.COMMON\TEST-MASGLOBAL.COMMON.csproj" />
+    <ProjectReference Include="..\TEST-MASGLOBAL.DAL\TEST-MASGLOBAL.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "sS6NpewlaVnBDXiPCNZAayMOexyMeYTaKy7JK9j/3Eb4x88PUmRaf79GyYPLts1vFshmPN9kmtNlOvU1PRbEcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ecarvajaL\\source\\repos\\TEST-MASGLOBAL\\TEST-MASGLOBAL.DAL\\TEST-MASGLOBAL.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ecarvajaL\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.8\\microsoft.aspnetcore.jsonpatch.3.1.8.nupkg.sha512",
+    "C:\\Users\\ecarvajaL\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.8\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.8.nupkg.sha512",
+    "C:\\Users\\ecarvajaL\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ecarvajaL\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\ecarvajaL\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\ecarvajaL\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\ecarvajaL\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.COMMON\bin\Debug\netcoreapp3.1\TEST-MASGLOBAL.COMMON.deps.json
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.COMMON\bin\Debug\netcoreapp3.1\TEST-MASGLOBAL.COMMON.dll
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.COMMON\bin\Debug\netcoreapp3.1\TEST-MASGLOBAL.COMMON.pdb
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.COMMON\obj\Debug\netcoreapp3.1\TEST-MASGLOBAL.COMMON.csproj.CoreCompileInputs.cache
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.COMMON\obj\Debug\netcoreapp3.1\TEST-MASGLOBAL.COMMON.AssemblyInfoInputs.cache
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.COMMON\obj\Debug\netcoreapp3.1\TEST-MASGLOBAL.COMMON.AssemblyInfo.cs
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.COMMON\obj\Debug\netcoreapp3.1\TEST-MASGLOBAL.COMMON.dll
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.COMMON\obj\Debug\netcoreapp3.1\TEST-MASGLOBAL.COMMON.pdb
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.COMMON\obj\Debug\netcoreapp3.1\TEST-MASGLOBAL.COMMON.csprojAssemblyReference.cache

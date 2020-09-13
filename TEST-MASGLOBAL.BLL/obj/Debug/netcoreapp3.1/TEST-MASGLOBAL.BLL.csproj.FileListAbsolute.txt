@@ -1,0 +1,14 @@
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.BLL\bin\Debug\netcoreapp3.1\TEST-MASGLOBAL.BLL.deps.json
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.BLL\bin\Debug\netcoreapp3.1\TEST-MASGLOBAL.BLL.dll
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.BLL\bin\Debug\netcoreapp3.1\TEST-MASGLOBAL.BLL.pdb
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.BLL\bin\Debug\netcoreapp3.1\TEST-MASGLOBAL.COMMON.dll
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.BLL\bin\Debug\netcoreapp3.1\TEST-MASGLOBAL.DAL.dll
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.BLL\bin\Debug\netcoreapp3.1\TEST-MASGLOBAL.COMMON.pdb
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.BLL\bin\Debug\netcoreapp3.1\TEST-MASGLOBAL.DAL.pdb
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.BLL\obj\Debug\netcoreapp3.1\TEST-MASGLOBAL.BLL.csprojAssemblyReference.cache
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.BLL\obj\Debug\netcoreapp3.1\TEST-MASGLOBAL.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.BLL\obj\Debug\netcoreapp3.1\TEST-MASGLOBAL.BLL.AssemblyInfoInputs.cache
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.BLL\obj\Debug\netcoreapp3.1\TEST-MASGLOBAL.BLL.AssemblyInfo.cs
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.BLL\obj\Debug\netcoreapp3.1\TEST-MASGLOBAL.BLL.csproj.CopyComplete
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.BLL\obj\Debug\netcoreapp3.1\TEST-MASGLOBAL.BLL.dll
+C:\Users\ecarvajaL\source\repos\TEST-MASGLOBAL\TEST-MASGLOBAL.BLL\obj\Debug\netcoreapp3.1\TEST-MASGLOBAL.BLL.pdb
